@@ -1,23 +1,23 @@
-# [Project Name] - Team [X]
+# Building Energy Efficiency - Team 3
 
 **DATA 4950 Data Science Capstone | Spring 2026**
 
-**Team Members:** [List your names here]
+**Team Members:** Brandon Smith Matthan Call
 
 ---
 
 ## Project Overview
 
-[Write 2-3 sentences describing your project. What problem are you solving? What data are you using?]
+Predicting heating and cooling load of twelve different building shapes using eight predictors. Our data is from building shapes simulated in Ecotect, a building design software. Our goal is to find the most efficient building for heating and cooling from the 768 simulations.
 
 ## Dataset
 
 | Item | Description |
 |------|-------------|
-| **Source** | [Where did you get the data?] |
-| **Size** | [How many rows and columns?] |
-| **Target Variable** | [What are you predicting?] |
-| **Task Type** | [Classification / Regression] |
+| **Source** | UC Irvine Machine Learning Repository |
+| **Size** | 768 Rows x 10 Columns |
+| **Target Variable** | Heating & Cooling Load |
+| **Task Type** | Regression |
 
 ## Repository Structure
 
@@ -60,7 +60,7 @@
 
 | Deliverable | Due Date | Status |
 |-------------|----------|--------|
-| Project Charter & Data Acquisition Plan | End of Week 5 | ⬜ Not Started |
+| Project Charter & Data Acquisition Plan | End of Week 5 | ✓ Started |
 | Exploratory Analysis & Data Preparation Report | End of Week 9 | ⬜ Not Started |
 | Peer Review 1 (Data Readiness Check) | Week 10 | ⬜ Not Started |
 | Model Development & Evaluation Report | End of Week 12 | ⬜ Not Started |
